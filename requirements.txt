@@ -1,3 +1,6 @@
+#django
+django
+
 # Database adapter
 psycopg2
 
